@@ -35,7 +35,7 @@ Endpoint: POST /api/compra
 Ver historial de compras: Lista todas las compras realizadas por un usuario, ofreciendo un historial completo de transacciones.
 Endpoint: GET /ver-compras
 
-6. APIs RESTful
+4. APIs RESTful
    
 Endpoints destacados: Exponen datos y funcionalidades del sistema para integraciones con otras aplicaciones o servicios.
 GET /api/peliculas: Lista todas las películas.
@@ -50,7 +50,7 @@ Formulario de registro: Interfaz para que los usuarios creen su cuenta en la pla
 Historial de compras: Página que muestra las compras realizadas por un usuario.
 
 6. Sistema de Seguridad
-   
+
 Validaciones de datos:
 
 CORS (Cross-Origin Resource Sharing): Se implementan validaciones en los endpoints para asegurar que las solicitudes sean correctas y seguras.
