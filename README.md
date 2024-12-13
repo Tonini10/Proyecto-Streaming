@@ -1,5 +1,7 @@
 # Proyecto-Streaming ToniFlix 
+
 Nombre: Esteban Tonini
+
 Fecha: 12/13/2024
 
 ¨El sistema esta desarrollado en Go y utiliza Gin-Gonic, un framework ligero y rápido para la creación de APIs y aplicaciones web en Go. Ademas el sistema se conecta a una base de datos MySQL para almacenar y gestionar información sobre usuarios, películas y transacciones. Utiliza HTML y CSS para la construcción de vistas, Exposición de servicios mediante APIs RESTful y se implementaron middlewares y configuraciones como el manejo de CORS para seguridad y control de acceso¨.
