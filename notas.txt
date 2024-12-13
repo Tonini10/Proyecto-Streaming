@@ -1,0 +1,5 @@
+Insert para compras
+INSERT INTO `compras` (`id_compra`, `nombre`, `apellido`, `email`, `nombre_tarjeta`, `numero_tarjeta`, `fecha_expiracion_tarjeta`, `cvv_tarjeta`, `fecha_creacion`) VALUES ('123999', 'Yolanda ', 'Murillo ', 'yolanda@gmail.com', 'Yolanda Murillo ', '23458769012234', '31/12/23', '398', '2024-12-09 20:12:26.000000');
+
+Otra compras
+inesita bla bla
